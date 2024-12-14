@@ -1,6 +1,5 @@
 # Machine Learning: Foundations to Frontier
 
-## Summary
 This 12-week workshop covers the foundations of machine learning. It starts with foundational concepts and progresses to neural networks. Each topic combines theoretical insights with hands-on practice. The workshop aims to provide an intutive understanding of machine learning with illustrated anologies. Each topic builds on top of previous topic so it is necessary to go step-by-step. Videos will be uploaded to Youtube channel. 
 
 ---
